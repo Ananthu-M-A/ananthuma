@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ananthu M A  
 
-| Portfolio | LinkedIn | GitHub | LeetCode | Medium | Email |
-|-----------|----------|--------|----------|--------|-------|
-| [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-blue?style=flat-square)](https://ananthuma.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthuma/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ananthu-M-A) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ananthuma/) | [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ananthumapookkad) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ananthumapookkad@gmail.com) |
+| Portfolio | LinkedIn | GitHub | LeetCode | Email | Medium |
+|-----------|----------|--------|----------|-------|--------|
+| [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-blue?style=flat-square)](https://ananthuma.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthuma/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ananthu-M-A) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ananthuma/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ananthumapookkad@gmail.com) | [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ananthuma) |
 
 ---
 
@@ -50,12 +50,23 @@ My work spans from **portfolio websites** to **enterprise-level platforms** such
 
 ## 🚀 Featured Projects  
 
-- **[Wanderlust](#)** → Hotel & Restaurant Booking App (Stripe, Chatbot, Socket.IO, Maps)  
-- **[E-Learning Platform](#)** → Interactive courses, certification & progress tracking  
-- **[Refix Garage](#)** → Smart repair service management with admin & analytics  
-- **[Smart Depot](#)** → E-Commerce for smartphone engineers (RazorPay, secure auth)  
-- **[Confidently Interview](#)** → Real-time interview practice platform with scheduling  
-- **[Netflix Clone](#)** → Educational project replicating Netflix UI & API integration  
+### Wanderlust – Hotel & Restaurant Booking App
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org) [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com) [![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)](https://stripe.com) [![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)](https://socket.io) [![Google Maps](https://img.shields.io/badge/-Google%20Maps-black?style=flat-square&logo=googlemaps)](https://developers.google.com/maps)  
+
+### E-Learning Platform
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com) [![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)](https://jwt.io) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)  
+
+### Refix Garage – Smart Repair Management
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com) [![Chart.js](https://img.shields.io/badge/-Chart.js-black?style=flat-square&logo=chart.js)](https://www.chartjs.org)  
+
+### Smart Depot – E-Commerce Platform
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com) [![RazorPay](https://img.shields.io/badge/-RazorPay-black?style=flat-square&logo=razorpay)](https://razorpay.com)  
+
+### Confidently Interview – Real-Time Interview Practice
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)](https://nestjs.com) [![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)](https://socket.io) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)  
+
+### Netflix Clone
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org) [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)](https://axios-http.com)  
 
 👉 Explore more projects on my [Portfolio](https://ananthuma.com)  
 
@@ -72,4 +83,6 @@ My work spans from **portfolio websites** to **enterprise-level platforms** such
 
 📧 **Email:** [ananthumapookkad@gmail.com](mailto:ananthumapookkad@gmail.com)  
 🌍 **Portfolio:** [ananthuma.com](https://ananthuma.com)  
-💼 **LinkedIn:** [linkedin.com/in/ananthuma](https://www.linkedin.com/in/ananthuma/)
+💼 **LinkedIn:** [linkedin.com/in/ananthuma](https://www.linkedin.com/in/ananthuma/)  
+
+---
