@@ -1,88 +1,365 @@
-# 👋 Hi, I'm Ananthu M A  
+# 👋 Hi, I'm Ananthu M A
 
-| Portfolio | LinkedIn | GitHub | LeetCode | Email | Medium |
-|-----------|----------|--------|----------|-------|--------|
-| [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-blue?style=flat-square)](https://ananthuma.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthuma/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ananthu-M-A) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ananthuma/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ananthumapookkad@gmail.com) | [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ananthuma) |
+### Full-Stack Developer • Technical Mentor • AI-Ready Web Engineer
 
----
+I build scalable, modern web applications focused on performance, developer experience, and real-world usability. My work combines full-stack engineering, educational product thinking, and modern AI-assisted workflows.
 
-## 📖 About Me  
-
-I am a **Full-Stack Developer (MERN + Next.js/Nest.js)** passionate about building **scalable, user-focused web applications**.  
-My work spans from **portfolio websites** to **enterprise-level platforms** such as **E-learning systems, E-commerce platforms, hotel booking apps, and SaaS tools**.  
-
-- ⚡ Strong in **React.js / Next.js frontend development** with clean, modern UI/UX.  
-- 🔐 Experienced in **Node.js / Express.js / Nest.js backends** with secure authentication & integrations.  
-- 💳 Skilled with **Stripe, RazorPay, and real-time systems (Socket.IO, Chatbots, Live Chat)**.  
-- 📊 Focused on **scalability**, **performance optimization**, and **user experience**.  
-- 🚀 Over **13+ production-ready projects** showcasing practical, real-world solutions.  
+🌍 Kerala, India  
+💼 Open to Remote Opportunities  
+🚀 Focused on Full-Stack Engineering, EdTech & AI-Integrated Products  
 
 ---
 
-## 🛠️ Skills & Technologies  
+# 🔗 Connect With Me
 
-### 🌐 Frontend
-| React | Next.js | TypeScript | Redux | Tailwind CSS | Framer Motion | ShadCN | GSAP |
-|-------|---------|------------|-------|--------------|---------------|--------|------|
-| ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs) | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) | ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) | ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) | ![Framer Motion](https://img.shields.io/badge/-FramerMotion-black?style=flat-square&logo=framer) | ![ShadCN](https://img.shields.io/badge/-ShadCN-black?style=flat-square) | ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock) |
-
-### ⚙️ Backend
-| Node.js | Express.js | Nest.js | MongoDB | Mongoose |
-|---------|-----------|---------|--------|---------|
-| ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) | ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) | ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongodb) |
-
-### 🔐 Authentication & Security
-| JWT | Bcrypt | OAuth |
-|-----|-------|------|
-| ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens) | ![Bcrypt](https://img.shields.io/badge/-Bcrypt-black?style=flat-square) | ![OAuth](https://img.shields.io/badge/-Google%20OAuth-black?style=flat-square&logo=google) |
-
-### 💳 Payments & Integrations
-| Stripe | RazorPay | Socket.IO | Google Maps API | Cloudinary |
-|--------|----------|-----------|----------------|------------|
-| ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe) | ![RazorPay](https://img.shields.io/badge/-RazorPay-black?style=flat-square&logo=razorpay) | ![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io) | ![Google Maps API](https://img.shields.io/badge/-Google%20Maps-black?style=flat-square&logo=googlemaps) | ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary) |
-
-### ☁️ Deployment & DevOps
-| Vercel | Render | AWS | Nginx |
-|--------|--------|-----|-------|
-| ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel) | ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) | ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) | ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx) |
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [ananthuma.com](https://ananthuma.com) |
+| 💼 LinkedIn | [linkedin.com/in/ananthuma](https://www.linkedin.com/in/ananthuma/) |
+| 🐙 GitHub | [github.com/Ananthu-M-A](https://github.com/Ananthu-M-A) |
+| 🧠 LeetCode | [leetcode.com/u/ananthuma](https://leetcode.com/u/ananthuma/) |
+| ✍️ Medium | [medium.com/@ananthuma](https://medium.com/@ananthuma) |
+| 📧 Email | ananthumapookkad@gmail.com |
 
 ---
 
-## 🚀 Featured Projects  
+# 🧠 About Me
 
-### Wanderlust – Hotel & Restaurant Booking App
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org) [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com) [![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)](https://stripe.com) [![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)](https://socket.io) [![Google Maps](https://img.shields.io/badge/-Google%20Maps-black?style=flat-square&logo=googlemaps)](https://developers.google.com/maps)  
+I'm a Full-Stack Developer specializing in scalable web applications using:
 
-### E-Learning Platform
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com) [![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)](https://jwt.io) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)  
+- Next.js
+- React.js
+- TypeScript
+- Node.js
+- NestJS
 
-### Refix Garage – Smart Repair Management
-[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com) [![Chart.js](https://img.shields.io/badge/-Chart.js-black?style=flat-square&logo=chart.js)](https://www.chartjs.org)  
+My experience includes:
+- SaaS platforms
+- E-learning systems
+- Real-time communication apps
+- Booking & management systems
+- E-commerce applications
+- AI-assisted developer tools
 
-### Smart Depot – E-Commerce Platform
-[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com) [![RazorPay](https://img.shields.io/badge/-RazorPay-black?style=flat-square&logo=razorpay)](https://razorpay.com)  
+Alongside engineering, I also work as a technical mentor, helping learners understand modern web development through practical, production-oriented projects.
 
-### Confidently Interview – Real-Time Interview Practice
-[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)](https://nextjs.org) [![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs)](https://nestjs.com) [![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)](https://socket.io) [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)  
-
-### Netflix Clone
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org) [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)](https://axios-http.com)  
-
-👉 Explore more projects on my [Portfolio](https://ananthuma.com)  
-
----
-
-## 📊 GitHub Stats  
-
-![Ananthu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananthu-M-A&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthu-M-A&layout=compact&theme=radical)  
+I focus on building systems that are:
+- Scalable
+- Maintainable
+- User-focused
+- Performance-optimized
+- Developer-friendly
 
 ---
 
-## 🤝 Let's Connect  
+# 🚀 Engineering Focus
 
-📧 **Email:** [ananthumapookkad@gmail.com](mailto:ananthumapookkad@gmail.com)  
-🌍 **Portfolio:** [ananthuma.com](https://ananthuma.com)  
-💼 **LinkedIn:** [linkedin.com/in/ananthuma](https://www.linkedin.com/in/ananthuma/)  
+- Scalable Frontend Architecture
+- Full-Stack Web Applications
+- AI-Assisted Product Workflows
+- Real-Time Systems & Communication
+- Authentication & Security
+- API Design & Backend Architecture
+- Performance Optimization
+- Reusable Component Systems
+- Educational Technology Platforms
+- Modern Developer Experience
 
 ---
+
+# ⚙️ Tech Stack
+
+## Frontend
+- React.js
+- Next.js
+- TypeScript
+- Redux Toolkit
+- Tailwind CSS
+- Framer Motion
+- ShadCN/UI
+- GSAP
+
+## Backend
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- PostgreSQL
+- MongoDB
+- TypeORM
+- Mongoose
+
+## Authentication & Security
+- JWT Authentication
+- OAuth
+- Role-Based Access Control
+- Session Management
+- Bcrypt
+
+## Real-Time & Integrations
+- Socket.IO
+- Stripe
+- Razorpay
+- Cloudinary
+- Google Maps API
+
+## DevOps & Deployment
+- Docker
+- AWS
+- Nginx
+- Vercel
+- Render
+- Git & GitHub
+
+## Currently Exploring
+- OpenAI APIs
+- AI Workflow Automation
+- System Design
+- Scalable Backend Patterns
+- CI/CD Pipelines
+- Developer Tooling
+- AI-Powered SaaS Architecture
+
+---
+
+# 📌 Featured Projects
+
+## 🧠 ORUMA — Mental Wellness & Counselling Platform
+
+A scalable mental wellness platform focused on therapist discovery, appointment booking, and secure counselling workflows.
+
+### Key Features
+- Therapist discovery system
+- Secure appointment booking
+- Role-based authentication
+- Admin & user management
+- Responsive mobile-first UI
+- Structured PostgreSQL data modeling
+
+### Tech Stack
+`Next.js` • `NestJS` • `PostgreSQL` • `TypeORM` • `Tailwind CSS`
+
+### Engineering Highlights
+- Full-stack TypeScript architecture
+- Modular scalable system design
+- Secure authentication workflows
+- Relational database modeling
+- Clean reusable UI systems
+
+### Future Scalability
+Supports:
+- Video consultations
+- Payment integrations
+- Therapist dashboards
+- Patient records
+- Wellness programs
+- Multilingual support
+
+---
+
+## 🔧 Refix Garage — Smart Repair Management System
+
+A workflow-focused repair management platform for service centers and technicians.
+
+### Key Features
+- Repair workflow tracking
+- Billing management
+- Dashboard analytics
+- Technician-focused UI
+- Operational monitoring
+
+### Tech Stack
+`Next.js` • `Node.js` • `MongoDB` • `Tailwind CSS` • `Chart.js`
+
+### Engineering Highlights
+- Workflow-first architecture
+- Analytics dashboard system
+- Operational domain modeling
+- Responsive admin experience
+
+### Future Scalability
+Supports:
+- Technician assignment systems
+- Notifications
+- SLA tracking
+- Advanced analytics
+
+---
+
+## 📱 Fix Your Phone — Smartphone Repair Learning Platform
+
+A modern learning platform helping aspiring technicians master smartphone repair workflows and troubleshooting.
+
+### Key Features
+- Structured repair guides
+- Responsive learning interface
+- Scalable content architecture
+- Reusable educational UI
+- Animation-enhanced experience
+
+### Tech Stack
+`Next.js` • `React.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+
+### Engineering Highlights
+- Component-driven architecture
+- Type-safe frontend system
+- Modular content delivery
+- Scalable UI composition
+
+### Future Scalability
+Prepared for:
+- Authentication systems
+- Progress tracking
+- Premium learning modules
+- Community-driven content
+
+---
+
+## ✨ Portfolio — Developer Portfolio Platform
+
+A modern portfolio platform showcasing projects, architecture thinking, and frontend engineering practices.
+
+### Key Features
+- Animation-driven UI
+- Responsive design system
+- Modular architecture
+- SEO-friendly structure
+- Reusable component system
+
+### Tech Stack
+`Next.js` • `React.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+
+### Engineering Highlights
+- SSR optimization
+- Scalable frontend structure
+- Smooth motion architecture
+- Performance-focused rendering
+
+---
+
+## 🤖 README Generator — AI-Powered Documentation Tool
+
+An AI-assisted developer tool for generating structured GitHub README documentation.
+
+### Key Features
+- Dynamic markdown generation
+- AI-assisted content workflows
+- Reusable form systems
+- Documentation automation
+- Developer productivity focus
+
+### Tech Stack
+`Next.js` • `TypeScript` • `Tailwind CSS` • `Gemini AI`
+
+### Engineering Highlights
+- AI integration workflows
+- Dynamic content generation
+- Scalable UI architecture
+- Productivity-focused UX
+
+---
+
+# 🤖 AI & Developer Tooling
+
+Currently exploring and integrating:
+- OpenAI APIs
+- AI-assisted development workflows
+- Prompt-driven UI generation
+- AI-powered educational systems
+- Developer productivity tooling
+- Automation-first product experiences
+
+---
+
+# 📈 Highlights
+
+- Built 13+ production-oriented full-stack projects
+- Strong focus on scalable frontend architecture
+- Experience building real-time systems
+- Technical mentoring & teaching experience
+- Production-focused development mindset
+- Strong foundation in modern TypeScript ecosystems
+
+---
+
+# 🎯 Technical Strengths
+
+## Engineering Advantages
+- Scalable frontend architecture
+- Authentication & security workflows
+- Backend API structuring
+- Real-time application systems
+- Reusable UI systems
+- Clean component organization
+- Modern deployment workflows
+
+## Teaching Advantages
+- Clear technical communication
+- Architecture-focused explanations
+- Mentorship-driven problem solving
+- Practical learning methodologies
+- Strong debugging mindset
+
+---
+
+# 🚧 Currently Building
+
+- ORUMA — Mental Wellness Platform
+- Refix Garage — Workflow Management System
+- AI-assisted educational experiences
+- Developer-focused productivity tools
+
+---
+
+# 🌍 Open To Opportunities
+
+- Remote Full-Stack Developer Roles
+- Frontend Engineering Roles
+- Technical Mentor Opportunities
+- Web Development Instructor Roles
+- EdTech & SaaS Engineering
+- Developer Education & Training
+
+---
+
+# 🏆 Certifications
+
+## Google
+- Google IT Support
+- Technical Support Fundamentals
+- IT Security: Defense Against the Digital Dark Arts
+- System Administration & IT Infrastructure Services
+- Operating Systems and You
+- The Bits and Bytes of Computer Networking
+
+## Meta
+- Programming with JavaScript
+- Version Control
+- Introduction to Front-End Development
+
+## IBM
+- Introduction to Software Engineering
+
+---
+
+# ✍️ Technical Writing Interests
+
+- SSR vs CSR in Next.js
+- Backend Architecture Simplified
+- Event-Driven Systems
+- Scalable NestJS Architecture
+- Frontend System Design
+- Modern Full-Stack Engineering
+
+---
+
+# 🤝 Let’s Connect
+
+📧 Email: **ananthumapookkad@gmail.com**  
+🌐 Portfolio: **https://ananthuma.com**  
+💼 LinkedIn: **https://linkedin.com/in/ananthuma**  
+🐙 GitHub: **https://github.com/Ananthu-M-A**
+
+---
+
+⭐ Always learning, building, and improving through modern engineering practices and real-world product development.
