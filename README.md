@@ -19,7 +19,7 @@ I build scalable, modern web applications focused on performance, developer expe
 | 🐙 GitHub | [github.com/Ananthu-M-A](https://github.com/Ananthu-M-A) |
 | 🧠 LeetCode | [leetcode.com/u/ananthuma](https://leetcode.com/u/ananthuma/) |
 | ✍️ Medium | [medium.com/@ananthuma](https://medium.com/@ananthuma) |
-| 📧 Email | ananthumapookkad@gmail.com |
+| 📧 Email | me@ananthuma.com |
 
 ---
 
@@ -355,7 +355,7 @@ Currently exploring and integrating:
 
 # 🤝 Let’s Connect
 
-📧 Email: **ananthumapookkad@gmail.com**  
+📧 Email: **me@ananthuma.com**  
 🌐 Portfolio: **https://ananthuma.com**  
 💼 LinkedIn: **https://linkedin.com/in/ananthuma**  
 🐙 GitHub: **https://github.com/Ananthu-M-A**
